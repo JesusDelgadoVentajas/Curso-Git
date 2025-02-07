@@ -1,1 +1,1 @@
-# Proyecto de Git
+# El proyeto es en Git
