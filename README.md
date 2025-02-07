@@ -1,1 +1,1 @@
-# El proyeto es en Git y esta es su descripcion principal
+# El proyeto es en Git y esta es su descripcion principal2
